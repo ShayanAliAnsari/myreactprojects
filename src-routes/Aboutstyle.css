@@ -1,0 +1,11 @@
+.aboutstyle
+{
+background: #badc58;
+width: 100%;
+height: 800%;
+color: white;
+justify-content: center;
+display: flex;
+align-items: center;
+
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+.avatar img
+{
+width: 200px;
+height: 200px;
+
+}
+.avatar button{
+text-align: center;
+display: center;
+
+}
+.avatar{
+    font-family: 'Gugi', cursive;
+}
